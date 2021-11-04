@@ -1,8 +1,25 @@
 .color-morado {
     background-color: #7B0077;
+    color:aliceblue;
 }
 
 .boton-comprar {
     width: 100%;
+    background-color: #7B0077;
+}
+
+a {
+    color:white!important;
+}
+
+.nav-link {
+    color:white!important;
+}
+
+.dropdown-item {
+    background-color: #7B0077;
+}
+
+.dropdown-menu {
     background-color: #7B0077;
 }
